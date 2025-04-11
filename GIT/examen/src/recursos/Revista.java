@@ -1,4 +1,4 @@
-package SistemaBiblioteca.TiposRecursos;
+package recursos;
 
 import SistemaBiblioteca.Prestable;
 

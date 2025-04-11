@@ -1,17 +1,17 @@
-package SistemaBiblioteca.TiposRecursos;
+package recursos;
 
 public abstract class RecursoBibliografico {
     protected String titulo;
     protected int anoPublicacion;
     protected boolean disponible;
 
-    public RecursoBibliografico(String titulo, int anoPublicacion, boolean disponible) {
+    protected RecursoBibliografico(String titulo, int anoPublicacion, boolean disponible) {
         this.titulo = titulo;
         this.anoPublicacion = anoPublicacion;
         this.disponible = disponible;
     }
 
-    public RecursoBibliografico() {
+    protected RecursoBibliografico() {
     }
 
 

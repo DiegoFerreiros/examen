@@ -1,4 +1,4 @@
-package SistemaBiblioteca;
+package recursos;
 
 public interface Prestable {
     public void prestar();

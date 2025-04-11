@@ -1,4 +1,4 @@
-package SistemaBiblioteca.Humanos;
+package humanos;
 
 public class Persona {
     private String nombre;

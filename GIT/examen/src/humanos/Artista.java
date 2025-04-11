@@ -1,4 +1,4 @@
-package SistemaBiblioteca.Humanos;
+package humanos;
 
 public class Artista extends Persona{
 
