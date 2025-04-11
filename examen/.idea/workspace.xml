@@ -4,33 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbe501d8-a130-43cb-bd15-4a9abd4ba111" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../GIT/examen/src/test/libroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/humanos/Artista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/humanos/Artista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/humanos/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/humanos/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/humanos/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/humanos/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/recursos/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/recursos/CD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/recursos/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/recursos/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/recursos/Prestable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/recursos/Prestable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/recursos/RecursoBibliografico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/recursos/RecursoBibliografico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GIT/examen/src/recursos/Revista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GIT/examen/src/recursos/Revista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bbe501d8-a130-43cb-bd15-4a9abd4ba111" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\examen\examen\htmlReport" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -46,13 +40,75 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build examen.executor": "Run",
+    "Gradle.Tests in 'examen.test'.executor": "Coverage",
+    "JUnit.All in examen.main.executor": "Coverage",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/examen/examen/src/recursos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/examen/examen/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\examen\examen\src\recursos" />
+      <recent name="C:\examen\examen\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\examen\examen\src" />
+      <recent name="C:\examen\examen\src\main" />
+      <recent name="C:\examen\examen\src\main\java" />
+      <recent name="C:\examen\examen\src\humanos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'examen.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="All in examen.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="examen.main" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in examen.main" />
+        <item itemvalue="Gradle.Tests in 'examen.test'" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744397371487</updated>
-      <workItem from="1744397372360" duration="4000" />
+      <workItem from="1744397372360" duration="1009000" />
     </task>
     <servers />
   </component>
@@ -80,11 +136,15 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/examen$All_in_examen_main.ic" NAME="All in examen.main Coverage Results" MODIFIED="1744398180039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/examen$Tests_in__examen_test_.ic" NAME="Tests in 'examen.test' Coverage Results" MODIFIED="1744397721478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
