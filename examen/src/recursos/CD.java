@@ -1,4 +1,4 @@
-package recursos;
+package src.recursos;
 
 import SistemaBiblioteca.Humanos.Artista;
 import SistemaBiblioteca.Prestable;

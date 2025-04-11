@@ -1,4 +1,4 @@
-package humanos;
+package src.humanos;
 
 
 /**
